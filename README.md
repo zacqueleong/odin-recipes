@@ -8,6 +8,7 @@ Concepts applied on this exercise
 - Link subpages from/to index.html
 - List down data (Ordered / Unordered)
 - Link images (Relative / Absolute Path)
+- CSS Integration
 
 Credits:  
 All recipe and images obtained from the links as below.
