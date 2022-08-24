@@ -1,0 +1,23 @@
+body {
+    background-color:#d6cbd3;
+    font-family:'Helvetica','Arial','sans-serif';
+}
+
+h1 {
+    background-color:#eca1a6;
+    color:white;
+    text-align:center;
+    font-weight:bold;
+}
+
+ul {
+    background-color:whitesmoke;
+    text-align:center;
+    font-size:28px;
+    list-style:none;
+}
+
+li {
+    margin-top:20px;
+    margin-bottom:40px;
+}
